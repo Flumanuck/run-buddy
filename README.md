@@ -12,3 +12,5 @@ https://flumanuck.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jacob
+
+### ©️2019 Run Buddy, Inc 
